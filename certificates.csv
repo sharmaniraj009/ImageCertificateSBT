@@ -1,0 +1,3 @@
+recipient_address,holder_name,issuer,purpose, metadata_uri, unique_id
+0x612dB15530351309fA3D07cB4e1906721e172243,Ansh Virshid, UID, B.Des, ipfs://QmZ, CERT-001
+0xe957FaDCBDE641CaD33c2efB63ebbC09195fe7A4,Nazuk Satwara, UIT, B.SC, ipfs://QmZ, CERT-002

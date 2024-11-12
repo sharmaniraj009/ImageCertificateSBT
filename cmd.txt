@@ -1,0 +1,12 @@
+npx hardhat run scripts/deploy.js --network polygonAmoy
+
+
+
+npx hardhat run .\scripts\interaction.js --network polygonAmoy
+// all the information for now is in the .env file
+
+npx hardhat run scripts/batchminting.js --network polygonAmoy;
+recipient_address,holder_name,issuer,purpose,metadata_uri,unique_id;
+
+
+
